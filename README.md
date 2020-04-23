@@ -1,1 +1,1 @@
-Smartbridge project to process MRI scans of patients and predict whether they are suffering from a brain tumor or not
+Smartbridge project to process cell images and predict whether the cell is suffering from malaria
